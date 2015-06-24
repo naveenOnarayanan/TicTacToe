@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="result_dialog_winner">Player %1$s is the winner!</string>
+    <string name="result_dialog_none">Its a Tie!</string>
+    <string name="result_dialog_question">Would you like to play again?</string>
+    <string name="Yes">Yes</string>
+    <string name="Exit">Exit</string>
+</resources>
